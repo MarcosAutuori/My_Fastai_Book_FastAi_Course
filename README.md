@@ -1,5 +1,5 @@
-# My_FreeBook-FastAi-_Course
+# My_Fastai_Book_FastAi_Course
 
-My files - Fastai/fastbook
+My files from Fastai/fastbook
 
 https://github.com/fastai/fastbook
